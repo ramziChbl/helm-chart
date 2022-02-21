@@ -1,2 +1,2 @@
-# helm-chart
-helm-chart for kubernetes reflector
+# helm-charts
+helm-charts for kubernetes reflector
